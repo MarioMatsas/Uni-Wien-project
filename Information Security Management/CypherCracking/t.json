@@ -1,0 +1,33 @@
+[
+    {
+        "_id": "1111",
+        "username": "doc1",
+        "password": "pass1",
+        "name": "A",
+        "surname": "M",
+        "profession": "Cardiologist",
+        "birth_date": "1980-01-01",
+        "join_date": "2020-01-01"
+    },
+    {
+        "_id": "2222",
+        "username": "doc2",
+        "password": "pass2",
+        "name": "X",
+        "surname": "M",
+        "profession": "Dermatologist",
+        "birth_date": "1985-02-02",
+        "join_date": "2021-02-02"
+    },
+    {
+        "_id": "3333",
+        "username": "doc3",
+        "password": "pass3",
+        "name": "E",
+        "surname": "M",
+        "profession": "Neurologist",
+        "birth_date": "1990-03-03",
+        "join_date": "2022-03-03"
+    }
+]
+  
